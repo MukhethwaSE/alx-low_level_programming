@@ -3,7 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - The program asigns a random number to n each time it executes and prints whether the number stored in the variable n is positive, negative or zero.
+ * main - The program asigns a random number to n each time it executes
+ * and prints whether the number stored in the variable n is positive,
+ * negative or zero.
  *
  * Return: 0
  */
